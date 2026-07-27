@@ -4,6 +4,10 @@ Welcome to the official web showcase repository for **Awdsain** (*aw-dee-sign*),
 
 This project is a static responsive website designed to highlight Awdsain's portfolio, design philosophy, and agency services in a sleek, minimalist digital space.
 
+## 🌐Website URL 
+Check out the project at the URL below.
+[Click Here!](https://eddieooi.github.io/Awdsain/index.html)
+
 ---
 
 ## 🌟 About Awdsain
