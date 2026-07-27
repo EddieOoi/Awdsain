@@ -35,5 +35,5 @@ Awdsain focuses on creating impactful visual identity systems guided by the prin
 │   ├── fonts/        # Custom brand typography
 │   └── img/          # Portfolio showcase images & media
 ├── index.html        # Main homepage & portfolio grid
-├── product1.html     # Client case study / product page
+├── product.html     # Client case study / product page
 └── README.md         # Documentation
