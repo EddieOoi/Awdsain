@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+📄 License & Rights
+© Awdsain. All rights reserved.
 
-Template Name: MyPortfolio
-Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+All brand design assets, portfolio work, images, and content remain the intellectual property of Awdsain and Angel Won. Unlawful copying or redistribution is strictly prohibited.
