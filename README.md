@@ -4,6 +4,13 @@ Welcome to the official web showcase repository for **Awdsain** (*aw-dee-sign*),
 
 This project is a static responsive website designed to highlight Awdsain's portfolio, design philosophy, and agency services in a sleek, minimalist digital space.
 
+## 🖼️ Visual Showcase
+
+| 01. Homepage | 02. Case Study | 03. Mobile View |
+| :---: | :---: | :---: |
+| <img src="assets/img/home-page.png" alt="Homepage" width="250"/> | <img src="assets/img/case-study.png" alt="Case Study" width="250"/> | <img src="assets/img/mobile-view.png" alt="Mobile View" width="250"/> |
+| *Minimalist brand hero section and primary portfolio grid.* | *In-depth layout for client case studies and deliverables.* | *Fluid, responsive navigation for mobile screen sizes.* |
+
 ## 🌐Website URL 
 Check out the project at the URL below.
 [Click Here!](https://eddieooi.github.io/Awdsain/index.html)
