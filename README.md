@@ -13,7 +13,7 @@ This project is a static responsive website designed to highlight Awdsain's port
 
 ## 🌐Website URL 
 Check out the project at the URL below.
-[Click Here!](https://eddieooi.github.io/Awdsain/index.html)
+[Click Here!](https://awdsain.vercel.app/)
 
 ---
 
